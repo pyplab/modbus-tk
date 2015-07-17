@@ -5,6 +5,7 @@
 
  (C)2009 - Luc Jean - luc.jean@gmail.com
  (C)2009 - Apidev - http://www.apidev.fr
+ (C)2015 - Cxandros - http://cxandros.pypchile.cl
 
  This is distributed under GNU LGPL license, see license.txt
 
